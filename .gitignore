@@ -1,0 +1,12 @@
+.next
+.vscode
+.DS_Store
+
+node_modules
+ethereum/.env
+
+ethereum/build/*
+!ethereum/build/.gitkeep
+
+address
+.env
